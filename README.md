@@ -1,7 +1,7 @@
 # Signal Count
 
-Proof console for AXL-routed market thesis review in the ETHGlobal OpenAgents /
-Gensyn track.
+Research/hackathon prototype for AXL-routed market-thesis review in the
+ETHGlobal OpenAgents / Gensyn track.
 
 Status: research reference. The project is preserved as a proof-console artifact for Entropy Core and trader intelligence design. Roadmap: `docs/PROJECT_PLAN.md`.
 
@@ -11,9 +11,10 @@ signatures, signed verifier attestations, and local REE receipt consistency.
 Start with [`docs/evidence/README.md`](docs/evidence/README.md). This is an
 evidence-tag candidate, not a live-network or production release.
 
-The remote is still named `Signal_Count`. The audited, not-yet-executed rename
-plan for the exact target `signal-count` is recorded in
-[`docs/RENAME_READINESS.md`](docs/RENAME_READINESS.md).
+The repository rename is complete: the canonical URL is
+[ashishki/signal-count](https://github.com/ashishki/signal-count).
+[`docs/RENAME_READINESS.md`](docs/RENAME_READINESS.md) retains the historical
+pre-rename plan.
 
 Do not trust the memo. Verify every specialist behind it.
 
